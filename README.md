@@ -37,8 +37,8 @@ This project simulates real-world AI internship responsibilities. It focuses on:
 |            File                 |                  Description                                  |
 |---------------------------------|---------------------------------------------------------------|
 | `smart_visual_annotation.ipynb` | Main notebook showing annotation, visualization, and insights |
-| `sample_images/` (optional)     | Raw vs. annotated road scene images  |
-| `utils/` (optional)             | Automation scripts or helpers |
+| `sample_images/` (optional)     | Raw vs. annotated road scene images                           |
+| `utils/` (optional)             | Automation scripts or helpers                                 |
 
 
 
@@ -50,7 +50,8 @@ This project simulates real-world AI internship responsibilities. It focuses on:
 
 ##  License
 
-This project is open-source and released under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
+
 
 
 
