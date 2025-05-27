@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+Pillow
+ipywidgets
+scikit-learn
+lxml
+pycocotools
